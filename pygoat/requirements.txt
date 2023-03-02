@@ -9,3 +9,5 @@ gunicorn
 django-heroku
 whitenoise
 django-allauth
+exotel==0.1.6
+spam==4.0.2
